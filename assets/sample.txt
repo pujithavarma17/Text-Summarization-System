@@ -1,0 +1,7 @@
+Artificial intelligence is changing the way hospitals diagnose and treat patients. In a recent study, researchers trained a deep learning model on more than 100,000 chest X-rays collected from five hospitals. The model learned to detect early signs of pneumonia, lung nodules and heart enlargement.
+
+When tested on new images, the system matched the accuracy of experienced radiologists and was much faster, reading each scan in under two seconds. Doctors said this could reduce waiting times in busy emergency departments, where patients often wait hours for a specialist to review their scans.
+
+However, the researchers warned that the model performed worse on images from hospitals that were not part of the training data. They said this shows the importance of testing AI tools on diverse populations before they are used in real clinics. Privacy is another concern, because medical images contain sensitive personal information.
+
+The team now plans a larger trial across twenty hospitals in three countries. If the results hold, the tool could be approved for use as a second reader that supports, rather than replaces, human doctors. Experts believe that AI assistants like this will become a normal part of healthcare within the next decade.

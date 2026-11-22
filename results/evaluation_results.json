@@ -1,0 +1,29 @@
+{
+  "samples": 30,
+  "results": {
+    "Lead-3 baseline": {
+      "rouge1": 29.3,
+      "rouge2": 11.26,
+      "rougeL": 20.11,
+      "coherence": 33.4,
+      "seconds_per_article": 0.01
+    },
+    "Extractive (TextRank)": {
+      "rouge1": 27.2,
+      "rouge2": 8.56,
+      "rougeL": 17.98,
+      "coherence": 48.99,
+      "seconds_per_article": 0.56
+    },
+    "Abstractive (DistilBART)": {
+      "rouge1": 32.67,
+      "rouge2": 11.93,
+      "rougeL": 23.4,
+      "coherence": 27.27,
+      "seconds_per_article": 22.01
+    },
+    "Human reference": {
+      "coherence": 30.65
+    }
+  }
+}

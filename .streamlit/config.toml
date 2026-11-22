@@ -1,0 +1,14 @@
+[client]
+# Hide the "Deploy" button
+toolbarMode = "minimal"
+
+[server]
+maxUploadSize = 50
+
+[theme]
+base = "light"
+primaryColor = "#6d4cf5"
+backgroundColor = "#f6f4ff"
+secondaryBackgroundColor = "#f1ecff"
+textColor = "#1e1b4b"
+font = "sans-serif"
