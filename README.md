@@ -3,7 +3,7 @@
 Turn long articles, reports, lecture notes and transcripts into short, clear summaries.
 Upload any number of **PDF, DOCX or TXT** files (or paste text) and get a summary, key points and topics for each one.
 
-**Live demo:** _add your Streamlit link here_
+**Live demo:** https://textsummarizer-ai.streamlit.app/
 
 ![Summary](assets/screenshots/01-summary.png)
 
